@@ -21,3 +21,18 @@ npm run dev
 ```
 
 Também há um teste simples do _**Hook**_ useState para mostrar o nome digitado em tempo real na tela superior direita.
+
+### Tela Inicial
+![tela inicial](./imagesexplanation/projeto.png)
+
+### Usuário encontrado
+![mais usuários](./imagesexplanation/usuarioencontrado.png)
+
+### Mais usuários na lista
+![mais usuários](./imagesexplanation/usuarioencontrado.png)
+
+### Interface Mobile
+![interface mobile](./imagesexplanation/mobile.png)
+
+### Usuário não existe
+![usuário não existe](./imagesexplanation/usuarionaoexiste.png)
