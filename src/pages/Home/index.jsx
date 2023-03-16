@@ -41,9 +41,9 @@ export function Home() {
   
   return (
    <div className='container'>
-      <header>
+      <header> 
       <h1>Lista de usuários do GitHub</h1>
-      <h3>Você está procurando por: {userName}</h3>
+      <h3>Você está procurando por: <span id="red">{userName}</span></h3>
       </header>
       <input type="text" placeholder="Escreva um nome" onChange={e => setUserName(e.target.value)}/>
       <button type="button" onClick={handleAddUser}>Mostrar usuários</button>

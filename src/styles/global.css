@@ -9,3 +9,7 @@ body, input, button{
     font-family: 'Roboto', sans-serif;
     -webkit-font-smoothing: antialiased;
 }
+
+body{
+    background: #F7F7F7;
+}

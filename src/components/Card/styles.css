@@ -1,8 +1,8 @@
 .card{
     height: 100px;
     width: 50%;
-    background: purple;
-    color: white;
+    background: #8D8D8D;
+    color: black;
     border-radius: 10px;
     margin-bottom: 20px;
     display: flex;
@@ -34,8 +34,8 @@
     .card {
         height: auto;
         width: 50%;
-        background: purple;
-        color: white;
+        background: #8D8D8D;
+        color: black;
         border-radius: 10px;
         margin-bottom: 20px;
         display: flex;
